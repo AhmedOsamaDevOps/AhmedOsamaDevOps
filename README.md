@@ -13,8 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack
+
 - **Cloud:** AWS (EC2, S3, Lambda, VPC, CloudFormation, Terraform)  
-- **Containers:** Docker, Kubernetes  
+- **Containers:** Docker, Kubernetes
+- **IaC:** Terraform, Cloudformation
 - **Automation:** Ansible, Python  
 - **CI/CD:** GitHub Actions, Jenkins  
 - **Version Control:** Git, GitHub  
