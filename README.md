@@ -33,6 +33,7 @@
 - ✅ AWS Certified Cloud Practitioner  
 - ✅ AWS Certified Solutions Architect – Associate  
 - ✅ AWS Certified SysOps Administrator – Associate  
+- ✅ HashiCorp Certified: Terraform Associate 
 
 ---
 
